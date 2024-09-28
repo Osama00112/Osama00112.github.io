@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "site-logo.png"
+  avatar           : "osama4.png"
   name             : "A. H. M. Osama Haque"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Lecturer, Department of Computer Science and Engineering, United International University || BUET CSE Graduate"
   location         : "Dhaka, Bangladesh"
-  employer         : "United International University || BUET"
+  employer         : "United International University"
   uri              : # URL
   email            : "haqueosama1@gmail.com" 
 
