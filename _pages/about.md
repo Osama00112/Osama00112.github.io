@@ -1,13 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm Osama (he/him), a fresh graduate from the department of CSE, BUET. I am currently working as a full-time lecturer in the department of CSE, United International University. My research interests lie in the fields of Computational Biology, Bioinformatics, as well as Machine Learning. My current career goal is to pursue a PhD program in my field of interest.
+
+My undergraduate thesis project was under Dr. Md. Sohel Rahman titled "Modeling Temporal Dependencies and Feature Interactions Reveal Novel Clinical and
+Molecular Insights into Alzheimer’s Disease Progression". We attempted to interpret top Alzheimer’s disease prediction models from the TADPOLE Challenge. For XGBoost model, we analyzed feature interactions with the help of TreeSHAP method. For complex deep learning model like RNN, we incorporated Integrated Gradient, which required modification in the model architecture.
+
+Apart from my research, I am also fortunate enough to contribute to the academic community through teaching. I’m currently the instructor of undergraduate-level courses on Structural Programming Language, Digital Logic Design, Artificial Intelligence, Discrete Mathematics etc.
+
+As an undergrad student at BUET, I've participated in Studnet poster presentations and secured first place back to back in the NSysS.
+
+I also love music, travelling, basketball, chess and binge-watching TV series and anime. 
 
 A data-driven personal website
 ======
