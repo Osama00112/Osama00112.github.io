@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "United International University (UIU), Department of Computer Science and Engineering"
+date: 2024-09-30
+location: "Dhaka, Bangladesh"
 ---
 
 ***Summer 2024***
