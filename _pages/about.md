@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm Osama (he/him), a fresh graduate from the department of CSE, BUET. I am currently working as a full-time lecturer in the department of CSE, United International University. My research interests lie in the fields of Computational Biology, Bioinformatics, as well as Machine Learning. My current career goal is to pursue a PhD program in my field of interest.
+I'm *Osama* (he/him), a fresh graduate from the *department of CSE, BUET*. I am currently working as a full-time lecturer in the *department of CSE, United International University*. My research interests lie in the fields of *Computational Biology, Bioinformatics*, as well as *Machine Learning*. My current career goal is to pursue a PhD program in my field of interest.
 
-My undergraduate thesis project was under Dr. Md. Sohel Rahman titled "Modeling Temporal Dependencies and Feature Interactions Reveal Novel Clinical and
+:mag_right: My undergraduate thesis project was under Dr. Md. Sohel Rahman titled "Modeling Temporal Dependencies and Feature Interactions Reveal Novel Clinical and
 Molecular Insights into Alzheimer’s Disease Progression". We attempted to interpret top Alzheimer’s disease prediction models from the TADPOLE Challenge. For XGBoost model, we analyzed feature interactions with the help of TreeSHAP method. For complex deep learning model like RNN, we incorporated Integrated Gradient, which required modification in the model architecture. We found that with the ablation of top two performing biomarkers, we were able to find more insightful results depicting the relationship between clinical and molecular features. We also found that feature importances have their own temporal dependencies. The results will help us generalize more impactful trial design based on patient status and diagnosis period or timeline.
 
-Apart from my research, I am also fortunate enough to contribute to the academic community through teaching. I’m currently the instructor of undergraduate-level courses on Structural Programming Language, Digital Logic Design, Artificial Intelligence, Discrete Mathematics etc.
+:books: Apart from my research, I am also fortunate enough to contribute to the academic community through teaching. I’m currently the instructor of undergraduate-level courses on Structural Programming Language, Digital Logic Design, Artificial Intelligence, Discrete Mathematics etc.
 
 As an undergrad student at BUET, I've participated in Studnet poster presentations and secured first place back to back in the NSysS. I also participated in multiple case competitions. My dream is to pursue academia and continue doing research.
 
 I also love music, travelling, basketball, chess and binge-watching TV series and anime.
-
+<!-- 
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -55,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
