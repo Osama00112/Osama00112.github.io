@@ -14,7 +14,9 @@ I joined UIU as a full-time lecturer on July 06, 2024. I was assigned Digital Lo
 ***Fall 2024***
 
 For the upcoming trimester, I am assigned Artificial Intelligence and Discrete Mathematics. I am looking forward to teaching these courses and sharing my knowledge with the students.
+ 
 
+ 
 Heading 1
 ======
 
