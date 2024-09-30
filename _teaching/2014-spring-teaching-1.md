@@ -12,6 +12,10 @@ location: "Dhaka, Bangladesh"
 
 I joined UIU as a full-time lecturer on July 06, 2024. I was assigned Digital Logic Design Course for three undergraduate students sections in my debut trimester. I also conducted Digital Logic Design Laboratory for two sections. The topics cover different aspects of digital electronics. Even though the syllabus is very large, the contents themselves are enjoyable.
 
+***Fall 2024***
+
+For the upcoming trimester, I am assigned Artificial Intelligence and Discrete Mathematics. I am looking forward to teaching these courses and sharing my knowledge with the students.
+
 Heading 1
 ======
 
