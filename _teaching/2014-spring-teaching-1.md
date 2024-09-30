@@ -8,7 +8,9 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+***Summer 2024***
+
+I joined UIU as a full-time lecturer on July 06, 2024. I was assigned Digital Logic Design Course for three undergraduate students sections in my debut trimester. I also conducted Digital Logic Design Laboratory for two sections. The topics cover different aspects of digital electronics. Even though the syllabus is very large, the contents themselves are enjoyable.
 
 Heading 1
 ======
