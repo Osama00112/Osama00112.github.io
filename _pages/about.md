@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm *Osama* (he/him), a fresh graduate from the *department of CSE, BUET*. I am currently working as a full-time lecturer in the *department of CSE, United International University*. My research interests lie in the fields of *Computational Biology, Bioinformatics*, as well as *Machine Learning*. My current career goal is to pursue a PhD program in my field of interest.
+:microphone: I'm **Osama** (he/him), a fresh graduate from the *department of CSE, BUET*. I am currently working as a full-time lecturer in the *department of CSE, United International University*. My research interests lie in the fields of *Computational Biology, Bioinformatics*, as well as *Machine Learning*. My current career goal is to pursue a PhD program in my field of interest.
 
-:mag_right: My undergraduate thesis project was under Dr. Md. Sohel Rahman titled "Modeling Temporal Dependencies and Feature Interactions Reveal Novel Clinical and
-Molecular Insights into Alzheimer’s Disease Progression". We attempted to interpret top Alzheimer’s disease prediction models from the TADPOLE Challenge. For XGBoost model, we analyzed feature interactions with the help of TreeSHAP method. For complex deep learning model like RNN, we incorporated Integrated Gradient, which required modification in the model architecture. We found that with the ablation of top two performing biomarkers, we were able to find more insightful results depicting the relationship between clinical and molecular features. We also found that feature importances have their own temporal dependencies. The results will help us generalize more impactful trial design based on patient status and diagnosis period or timeline.
+:mag_right: My **undergraduate thesis** project was under Dr. Md. Sohel Rahman titled "**Modeling Temporal Dependencies and Feature Interactions Reveal Novel Clinical and
+Molecular Insights into Alzheimer’s Disease Progression**". We attempted to interpret top Alzheimer’s disease prediction models from the TADPOLE Challenge. For XGBoost model, we analyzed feature interactions with the help of TreeSHAP method. For complex deep learning model like RNN, we incorporated Integrated Gradient, which required modification in the model architecture. We found that with the ablation of top two performing biomarkers, we were able to find more insightful results depicting the relationship between clinical and molecular features. We also found that feature importances have their own temporal dependencies. The results will help us generalize more impactful trial design based on patient status and diagnosis period or timeline.
 
 :books: Apart from my research, I am also fortunate enough to contribute to the academic community through teaching. I’m currently the instructor of undergraduate-level courses on Structural Programming Language, Digital Logic Design, Artificial Intelligence, Discrete Mathematics etc.
 
-As an undergrad student at BUET, I've participated in Studnet poster presentations and secured first place back to back in the NSysS. I also participated in multiple case competitions. My dream is to pursue academia and continue doing research.
+:game_die:As an undergrad student at BUET, I've participated in Studnet poster presentations and secured first place back to back in the International Conference on Networking, Systems and
+Security (NSysS)
+. I also participated in multiple case competitions. My dream is to pursue academia and continue doing research. I love everything about mathematics, which is why solving analytical problems, algorithms and ML modelling are somethings I find very enjoyable.
 
-I also love music, travelling, basketball, chess and binge-watching TV series and anime.
+:basketball: :musical_notes: :clapper: I also love music, travelling, basketball, chess and binge-watching TV series and anime.
 <!-- 
 A data-driven personal website
 ======
