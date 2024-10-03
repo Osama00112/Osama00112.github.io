@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "UIU Teaching Experince"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -16,8 +16,7 @@ I joined UIU as a full-time lecturer on July 06, 2024. I was assigned Digital Lo
 
 For the upcoming trimester, I am assigned Artificial Intelligence and Discrete Mathematics. I am looking forward to teaching these courses and sharing my knowledge with the students.
 
-Heading 1
-======
+
 
 
 
