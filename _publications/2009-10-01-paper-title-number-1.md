@@ -1,7 +1,7 @@
 ---
 title: "Microscopic Fungi Classification Using Vision Transformer Guided by Transfer Learning Approach."
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ' This study represents an automatic detection of fungi species in microscopic images using the vision transformer (ViT) architecture and transfer learning-based technique'
 date: 2023-12-01
