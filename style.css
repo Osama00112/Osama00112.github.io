@@ -1,33 +1,58 @@
+/* Base Colors */
+body {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+
+/* Links */
 a {
-    color: #1772d0;
-    text-decoration: none
+    color: #6aa9ff;
+    text-decoration: none;
 }
 
-a:focus,a:hover {
-    color: #f09228;
-    text-decoration: none
+a:hover, a:focus {
+    color: #ffb866;
+    text-decoration: none;
 }
 
-body,td,th,tr,p,a {
+/* Typography */
+body, td, th, tr, p, a {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
-    font-display: auto
+    font-display: auto;
+    color: #e0e0e0;
 }
 
 strong {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
-    font-display: auto
+    font-display: auto;
+    color: #ffffff;
+}
+
+/* Headings */
+h1 {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+    font-display: auto;
+    text-align: center;
+    color: #ffffff;
+    margin-block-start: 14px;
+    margin-block-end: 14px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 h2 {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 22px;
-    font-display: auto;
     font-weight: normal;
+    font-display: auto;
+    color: #e6e6e6;
     padding: 0px;
     margin: 0px;
-    display: inline
+    display: inline;
 }
 
 h3 {
@@ -35,26 +60,17 @@ h3 {
     font-size: 14px;
     font-weight: 700;
     font-display: auto;
+    color: #cccccc;
     padding: 0px;
     margin: 0px;
-    display: inline
+    display: inline;
 }
 
-h1 {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 32px;
-    font-weight: normal;
-    font-display: auto;
-    text-align: center;
-    padding: 0px;
-    margin-block-start:14px;margin-block-end:14px;margin-left: 0px;
-    margin-right: 0px
-}
-
+/* Image Hover Effects */
 .one {
     width: 160px;
     height: 160px;
-    position: relative
+    position: relative;
 }
 
 .two {
@@ -62,16 +78,16 @@ h1 {
     height: 160px;
     position: absolute;
     transition: opacity .2s ease-in-out;
-    -moz-transition: opacity .2s ease-in-out;
-    -webkit-transition: opacity .2s ease-in-out
 }
 
 .fade {
     transition: opacity .2s ease-in-out;
-    -moz-transition: opacity .2s ease-in-out;
-    -webkit-transition: opacity .2s ease-in-out
 }
 
+/* Highlight */
 span.highlight {
-    background-color: #ffffd0
+    background-color: #444444;
+    color: #ffffff;
+    padding: 2px 4px;
+    border-radius: 3px;
 }
